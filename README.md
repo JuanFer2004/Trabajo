@@ -1,7 +1,6 @@
 # Laboratorio SQL Injection - Análisis de Vulnerabilidades
 
 > Entrega: actividad de ciberseguridad (SQL Injection)  
-> Archivo base: `ciberseguridad-actividad01.md` — versión entregada: 2025-09-26
 
 ---
 
@@ -42,6 +41,5 @@
 
 ### Clonar el repositorio
 ```bash
-# Clonar el repo de entrega (ajusta la URL si entregas en otro repo)
 git clone https://github.com/JuanFer2004/Trabajo.git
 cd ciberseguridad
